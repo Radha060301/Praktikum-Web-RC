@@ -10,7 +10,7 @@ Kumpulkan tugas kalian _bisa_ dengan cara:
 
 :bangbang:
 jangan lupa tambahkan hasil screenshoot web di dalam file
-<img src="hasil.jpg">
+
 <hr>
 
 ### Tambahkan identitas dasar di sini: 
