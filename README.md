@@ -10,7 +10,7 @@ Kumpulkan tugas kalian _bisa_ dengan cara:
 
 :bangbang:
 jangan lupa tambahkan hasil screenshoot web di dalam file
-![image]https://(github.com/Radha060301/Praktikum-Web-RC/blob/Minggu2/minggu2%20Prak%20Pemweb/Hasil%20SS.JPG)
+![image](https://github.com/Radha060301/Praktikum-Web-RC/blob/Minggu2/minggu2%20Prak%20Pemweb/Hasil%20SS.JPG)
 <hr>
 
 ### Tambahkan identitas dasar di sini: 
