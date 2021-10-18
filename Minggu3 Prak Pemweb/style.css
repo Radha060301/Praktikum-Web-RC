@@ -1,0 +1,23 @@
+.badan-utama
+{
+    max-width: 2080px;
+    margin: 40px auto;
+    padding: 15px;
+    
+}
+ 
+header
+{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    width: 99,5%;
+    height: 300px;
+}
+ 
+.label
+{
+	width: 530px;
+    margin-right: 10px;
+    float: left;
+}
