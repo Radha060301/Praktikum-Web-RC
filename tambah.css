@@ -1,0 +1,22 @@
+.formdata{
+	width: 800px;
+	margin: 80px auto;
+	border: 1px solid blue;
+}
+
+form{
+	margin: 20px 20px;
+}
+
+h2{
+	margin: 20px 20px;
+	border-bottom: 3px solid;
+	text-align: center;
+}
+
+button{
+	margin-top: 40px;
+}
+label{
+	margin-top: 20px;
+}
